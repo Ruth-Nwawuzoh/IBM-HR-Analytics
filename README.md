@@ -10,7 +10,7 @@ This repository contains data, code, and outputs for my **Business Analytics Mil
 ---
 
 ## **Instructions to Clone and Unzip Repository**
-1. Clone the repository or unzip file If downloaded
+1. Clone the repository or unzip file ('HR Data Analysis.zip'), If downloaded
 2. Launch the notebook
 
 ---
